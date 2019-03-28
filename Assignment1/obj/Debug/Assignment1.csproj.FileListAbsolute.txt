@@ -1,0 +1,14 @@
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Anderson\Desktop\SODV2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Anderson\Desktop\SODV2202\sodv2202\sodv2202_assignment1\Assignment1\obj\Debug\Assignment1.pdb
